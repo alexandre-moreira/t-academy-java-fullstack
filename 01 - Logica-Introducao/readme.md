@@ -17,3 +17,10 @@
 * 3.2 - Linguagens interpretadas
 * 3.3 - Liguagens compiladas
 * 3.4 - Comparativos
+
+## 4. Como tudo isso funciona: Hardware X Software
+
+## 5. Uso da lógica na solucao de problemas
+* 5.1 - Estapas para solucao de problemas
+* 5.2 - Estrutura básica de um algoritmo
+* 5.3 - Represetacao de um algoritmo
